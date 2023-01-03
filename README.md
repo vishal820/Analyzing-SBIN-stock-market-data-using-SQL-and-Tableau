@@ -1,4 +1,4 @@
-# Analyzing-SBIN-stock-market-data-using-SQL-and-Tableau
+# Analyzing SBIN Stock Market Data using SQL and Tableau
 Dataset - https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 
 Here i am trying to query these things using SQL:
